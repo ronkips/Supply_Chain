@@ -35,6 +35,9 @@ Clone the project from git
 
 `https://github.com/ronkips/Supply_Chain.git`
 
+## 1. Frontend source code
+This is a decentralized application (dApp) built on top of the Ethereum blockchain. The dApp is designed to help users track the status of items in a supply chain. The project was bootstrapped with Create React App and uses the ethers.js library to interact with the Ethereum network.
+
 ## Getting Started
 
 Navigate to the frontend project folder
